@@ -1,5 +1,5 @@
 # data-structures-peek
-An approach to data structues such as Linked List, Doubly Linked List and Binary Trees
+An approach to data structures such as Linked List, Doubly Linked List and Binary Trees
 I do not claim this code to be the only solution or approach, heck it might not even be the best one, but is an attempt to delve into data structures with Java.
 
 I tried to make my methods self-explanatory and tried to write it clean and concise so everyone can follow.
@@ -11,7 +11,7 @@ Linked List and Doubly Linked List:
 
 Binary Trees (BST):
 
-- With trees I ended up making a couple of more methods that seemes challenging enough and that would allow me to cement my knowledge.
+- With trees I ended up making a couple of more methods that seemed challenging enough and that would allow me to cement my knowledge.
 
 Hope this helps ...
 
